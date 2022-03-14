@@ -1,7 +1,3 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 
 .banner-header{
    
@@ -11,13 +7,14 @@
     
 }
 
-img{
+.banner-header img{
     width: 18%;
     height: auto;
 }
 
 .header-title{
     font-size: 35px;
+    margin-top: 20px;
 }
 
 .grey-text {
@@ -29,3 +26,28 @@ a{
     color:rgb(58, 169, 212);
 }
 
+main{
+    width: 100%;
+}
+
+.tim-1{
+    width: 50%;
+}
+
+.tim-2{
+    width: 45%;
+}
+
+p{
+    margin-top:20px;
+}
+
+h1,h3,h5,h6{
+    margin:0;
+    padding: 0;
+}
+ul{
+    padding-left: 15px;
+    margin-top: 30px;
+    
+}
