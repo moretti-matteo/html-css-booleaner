@@ -1,14 +1,18 @@
-
+header{
+    margin-bottom: 20px;
+}
 .banner-header{
    
     background: url("../img/pattern.png");
     height: 150px;
     background-color: rgb(66, 138, 255);
-    
+    width: 100%;
 }
 
 .banner-header img{
-    width: 18%;
+    margin-top: 80px;
+    margin-left: 10px;
+    width:15%;
     height: auto;
 }
 
@@ -32,10 +36,13 @@ main{
 
 .tim-1{
     width: 50%;
+    height: 500px;
 }
 
 .tim-2{
     width: 45%;
+    height: 500px;
+
 }
 
 p{
@@ -52,7 +59,7 @@ ul{
 }
 
 table{
-    margin-top:20px;
+    margin-top:30px;
     text-align: left;
     width: 100%;
     border-collapse: collapse;
@@ -85,6 +92,7 @@ footer h3{
     height: 180px;
     background-position: center;
     background-size: contain;
+    color:white;
     
 }
 
@@ -95,4 +103,5 @@ footer h3{
     background-position: center;
     background-size: contain;
     margin-top:10px;
+    color:white;
 }
