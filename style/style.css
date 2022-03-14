@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner-header{
+   
+    background: url("../img/pattern.png");
+    height: 150px;
+    background-color: rgb(66, 138, 255);
+    
+}
+
+img{
+    width: 18%;
+    height: auto;
+}
+
+.header-title{
+    font-size: 35px;
+}
+
+.grey-text {
+    color:rgb(139, 139, 139);
+}
+
+a{
+    text-decoration: none;
+    color:rgb(58, 169, 212);
+}
+
