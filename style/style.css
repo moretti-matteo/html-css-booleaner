@@ -70,3 +70,29 @@ thead{
 .heavenly-row{
     background:rgb(144, 223, 255);
 }
+
+footer{
+    margin-top: 30px;
+}
+
+footer h3{
+    margin-bottom:15px;
+}
+
+.img-footer-1{
+    background: url("../img/monitor.jpg");
+    width: 190px;
+    height: 180px;
+    background-position: center;
+    background-size: contain;
+    
+}
+
+.img-footer-2{
+    background: url("../img/graph.jpg");
+    width: 190px;
+    height: 180px;
+    background-position: center;
+    background-size: contain;
+    margin-top:10px;
+}
